@@ -19,3 +19,9 @@ Die „echten“ Tutoren hinter dem CNC-Kurs tüfteln gemeinsam mit Tischler- un
 ### IDA – Ein unterstützendes Tool für weitere Lehr-Lern-Settings anderer Fachgebiete
 
 Auch Dozenten anderer Fachgebiete in Bildungseinrichtungen des Handwerks können ihre bisherigen Kurse mit Hilfe von IDA interaktiv und adaptiv in ein digitalgestütztes Lernangebot umwandeln. Der virtuelle Tutor von IDA geleitet sie durch die verschiedenen Bausteine, um ihre eigenen Lehr-Lern-Setting zu erstellen.
+
+### Förderung
+
+Dieses Forschungs- und Entwicklungsprojekt (FKZ: 21INVI3206) wurde mit Mitteln des Bundesministeriums für Bildung und Forschung (BMBF) im Innovationswettbewerb INVITE gefördert und vom Bundesinstitut für Berufsbildung (BIBB) betreut.
+
+![Gefördert durch](foerderer-leiste.png)
